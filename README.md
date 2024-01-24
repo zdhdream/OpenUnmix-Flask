@@ -1,3 +1,5 @@
+I used MIT's Pytorch combined with the Flask framework to try to make a backend for a WeChat applet. It doesn't need to be used for commercial purposes, just out of interest.
+If you are interested in this, please give the original algorithm OpenUnmix a thumbs up
 #  _Open-Unmix_ for PyTorch
 
 [![status](https://joss.theoj.org/papers/571753bc54c5d6dd36382c3d801de41d/status.svg)](https://joss.theoj.org/papers/571753bc54c5d6dd36382c3d801de41d) 
